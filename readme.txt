@@ -1,2 +1,2 @@
 Git is a control system
-Git is fre:e
+Git is free
